@@ -9,6 +9,8 @@
 
 <img src= "handball.jpg" alt="Image">
 <img src="https://freepngimg.com/download/handball/29984-9-handball.png" style="width:200px;height:200px;"/>
+
+<A HREF="pages/solution.html"> Week 4 Solution</A>
 <
 <h3> Contact Information </h3>
 <p> klok@csus.edu</p>
