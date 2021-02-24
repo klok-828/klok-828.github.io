@@ -10,7 +10,7 @@
 <img src= "handball.jpg" alt="Image">
 <img src="https://freepngimg.com/download/handball/29984-9-handball.png" style="width:200px;height:200px;"/>
 
-<a href="https://github.com/klok-828/klok-828.github.io/blob/main/solution.md"> Week 4 Solution</A>
+<a href="soltion.html"> Week 4 Solution</A>
 <
 <h3> Contact Information </h3>
 <p> klok@csus.edu</p>
